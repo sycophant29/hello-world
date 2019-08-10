@@ -1,3 +1,5 @@
+### LPTHW Exercise 26.py which is to test your ability to fix this person's deliberate errored program ###
+
 print("How old are you?", end=' ')
 age = input()
 print("How tall are you?", end=' ')
